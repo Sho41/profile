@@ -1,0 +1,48 @@
+.changesize{
+  width: 200px;
+}
+
+h2 {
+  color: rgb(12, 168, 116);
+  font-size: 30px;
+}
+
+body {
+  background: orange;
+  color: #575F7D;
+  font-family: Agbalumo;
+  font-size: 17px;
+  font-weight: lighter;
+}
+
+a{
+color: rgb(12, 168, 116);
+text-decoration: none;
+font-size: 20px;
+}
+a:hover {
+  text-decoration: underline;
+  color: pink;
+}
+
+.card-white{
+  background-color: white;
+  text-align: center;
+  padding: 40px;
+  margin: 50px 80px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+ul {
+  list-style-type: none;
+  padding-inline-start: 0px;
+}
+
+.bbb{
+  color: blueviolet;
+}
+
+#home-page-first-image{
+  border-radius: 10px;
+}
